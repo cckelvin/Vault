@@ -1,0 +1,1 @@
+{"name": "AI Builder Framework","version": "1.0.0","description": "A framework for AI development.","main": "index.js","scripts": {"test": "echo 'Error: no test specified' && exit 1"},"dependencies": {"zod": "latest","typebox": "latest","openai": "latest","typescript": "latest"}}
